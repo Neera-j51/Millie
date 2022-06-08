@@ -32,15 +32,15 @@ global.APIKeys = { // The APIKey is here
 }
 
 // Sticker WM
-global.packname = '💋 joker bot 💋'
-global.author = 'joker adanali gg'
+global.packname = '💋 Beyza bot 💋'
+global.author = 'Beyza kaya nur'
 
 
 global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
 global.fla = 'https://github.com/neera-j/Bot-Files/blob/main/images/millie.jpg'
 
-global.watermark = '© joker bot'
+global.watermark = '© beyza bot'
 
 global.multiplier = 69 // The higher it is, the harder it is to level up
 
